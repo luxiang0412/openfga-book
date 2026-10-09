@@ -1,0 +1,12 @@
+[
+  {"text": "Part 0 导读", "items": ["00-how-to-read"]},
+  {"text": "Part I 全景", "items": ["01-authz-models", "02-architecture", "03-check-lifecycle"]},
+  {"text": "Part II 模型与数据 → v0.1", "items": ["04-dsl", "05-typesystem", "06-tuples", "07-storage", "08-naive-check", "lab-1-drive-cli"]},
+  {"text": "Part III Check 引擎 → v0.2", "items": ["09-local-checker", "10-set-operations", "11-usersets-ttu", "12-cycles-depth", "13-contextual-tuples", "lab-2-concurrent-check"]},
+  {"text": "Part IV 条件与 Resolver 链 → v0.3", "items": ["14-conditions", "15-resolver-chain", "16-expand", "17-batch-check", "lab-3-conditions-cache"]},
+  {"text": "Part V 反向查询 → v0.4", "items": ["18-list-objects", "19-list-objects-advanced", "20-list-users", "lab-4-list"]},
+  {"text": "Part VI 服务端 → v0.5", "items": ["21-persistence", "22-stores-models-write", "23-changes-assertions-consistency", "24-http-api", "lab-5-service"]},
+  {"text": "Part VII Playground → v0.6", "items": ["25-playground-model-tuples", "26-playground-query-trace", "lab-6-playground"]},
+  {"text": "Part VIII 平台化 → v1.0", "items": ["27-weighted-graph", "28-planner", "29-authn-tenancy", "30-observability", "31-correctness", "lab-7-deploy"]},
+  {"text": "附录", "items": ["appendix/a-source-map", "appendix/b-glossary", "appendix/c-comparison", "appendix/d-answers"]}
+]
